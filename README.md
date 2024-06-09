@@ -55,7 +55,7 @@
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Desenvolvimento de aplicação
 >> Aula 07 - Desenvolvimento de Páginas Web com HTML5 e CSS - Descrição das Atividades<br>
->> Aula 18 - Desenvolvimento de Páginas Web com HTML5 e CSS - Instalação e Configuração do Ambiente<br>
+>> Aula 08 - Desenvolvimento de Páginas Web com HTML5 e CSS - Instalação e Configuração do Ambiente<br>
 
 
 ---
